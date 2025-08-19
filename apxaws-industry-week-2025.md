@@ -17,7 +17,7 @@
   • 다양한 LLM 모델 조합으로 성능 최적화
   • AWS Bedrock을 통한 Foundation Model 활용
 
-### 3. 아모레퍼시픽 GAIA 시스템 (20분) - 고객
+### 3. 아모레퍼시픽 AI Review Insight (20분) - 고객
 • **뷰티 도메인 특화 sLLM 개발**
   • 화장품 전문 용어와 속성 이해
   • 감성 분석 정확도 향상
